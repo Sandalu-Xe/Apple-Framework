@@ -54,6 +54,12 @@ This SwiftUI project displays various Apple frameworks in a grid layout. When a 
 - Tap on any framework icon to view detailed information about that framework.
 - Use the back button to return to the main grid view.
 
+## Requirements
+
+- iOS 14.0+
+- Xcode 12.0+
+- SwiftUI
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
