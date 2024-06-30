@@ -9,11 +9,14 @@ This SwiftUI project displays various Apple frameworks in a grid layout. When a 
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](path/to/Screenshot-2567-06-30-at-21.58.12.png)
+### Main Screen / Dark mode
+<img width="367" alt="Screenshot 2567-06-30 at 21 58 12" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/381ab88d-e1a0-4f24-a260-6ebb7ccdd5ed">
+<img width="279" alt="Screenshot 2567-06-30 at 22 00 34" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/4882f668-f159-4a4f-9ee5-fe3b710b0bc3">
 
-### Detail Screen
-![Detail Screen](path/to/Screenshot-2567-06-30-at-21.58.47.png)
+
+### Detail Screen / Dark Mode
+<img width="365" alt="Screenshot 2567-06-30 at 21 58 47" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/fe19366a-d5cf-4007-9d3f-a5566fe6d0aa">
+<img width="277" alt="Screenshot 2567-06-30 at 22 01 07" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/63a23069-6a89-45d9-8d6f-4933d25a1ab5">
 
 ## Frameworks Included
 
@@ -61,5 +64,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [youremail@example.com](mailto:youremail@example.com).
+If you have any questions or suggestions, please feel free to contact me at [sandaluthushan20@gmail.com](mailto:youremail@example.com).
+
+
 
