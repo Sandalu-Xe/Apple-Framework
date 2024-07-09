@@ -6,6 +6,7 @@ This SwiftUI project displays various Apple frameworks in a grid layout. When a 
 
 - Display Apple frameworks in a grid.
 - Show detailed information for each framework.
+- when click the each Framework it go www.apple.com website and gives the information relevent framework
 
 ## Screenshots
 
@@ -17,6 +18,13 @@ This SwiftUI project displays various Apple frameworks in a grid layout. When a 
 ### Detail Screen / Dark Mode
 <img width="365" alt="Screenshot 2567-06-30 at 21 58 47" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/fe19366a-d5cf-4007-9d3f-a5566fe6d0aa">
 <img width="277" alt="Screenshot 2567-06-30 at 22 01 07" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/63a23069-6a89-45d9-8d6f-4933d25a1ab5">
+
+### when click the each Framework it go www.apple.com website and gives the information relevent framework
+
+<img width="269" alt="Screenshot 2567-07-09 at 15 20 02" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/043638c0-4f11-49ab-971d-eafb7f92801d">
+
+<img width="361" alt="Screenshot 2567-07-09 at 15 17 22" src="https://github.com/Sandalu01/Apple-Framework/assets/108582011/052ae958-8c4f-4680-a96c-22923d2704d5">
+
 
 ## Frameworks Included
 
