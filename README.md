@@ -45,7 +45,7 @@ This SwiftUI project displays various Apple frameworks in a grid layout. When a 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/AppleFrameworksShowcase.git
+    git clone https://github.com/Sandalu-Xe/AppleFrameworksShowcase.git
     ```
 
 2. Open the project in Xcode:
